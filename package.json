@@ -1,12 +1,12 @@
 {
-  "name": "@aidenlx/better-sqlite3",
+  "name": "@quachpas/better-sqlite3",
   "version": "12.2.0",
   "description": "The fastest and simplest library for SQLite in Node.js.",
-  "homepage": "http://github.com/aidenlx/better-sqlite3",
-  "author": "Joshua Wise <joshuathomaswise@gmail.com>",
+  "homepage": "http://github.com/quachpas/better-sqlite3",
+  "author": "Pascal Quach <quach.pascal@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aidenlx/better-sqlite3.git"
+    "url": "git://github.com/quachpas/better-sqlite3.git"
   },
   "main": "lib/index.js",
   "files": [
@@ -16,7 +16,7 @@
     "deps/**"
   ],
   "engines": {
-    "node": "20.x || 22.x || 23.x || 24.x"
+    "node": "22.x || 23.x || 24.x"
   },
   "dependencies": {
     "bindings": "^1.5.0",
