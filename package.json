@@ -1,6 +1,6 @@
 {
   "name": "@quachpas/better-sqlite3",
-  "version": "12.2.0",
+  "version": "12.2.1",
   "description": "The fastest and simplest library for SQLite in Node.js.",
   "homepage": "http://github.com/quachpas/better-sqlite3",
   "author": "Pascal Quach <quach.pascal@gmail.com>",
@@ -21,11 +21,6 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "prebuild-install": "^7.1.1"
-  },
-  "overrides": {
-    "prebuild": {
-      "node-abi": "4.9.0"
-    }
   },
   "devDependencies": {
     "chai": "^4.3.8",
